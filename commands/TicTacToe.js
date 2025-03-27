@@ -12,7 +12,7 @@
  * @description : Secktor-2.0 ,A Multi-functional whatsapp bot.       
  * @version 2.0.1                                                                                             
  ========================================================
- **/
+ **/////
 
  const { cmd, parseJid,getAdmin,tlang } = require("../lib/");
  const eco = require('discord-mongoose-economy')
